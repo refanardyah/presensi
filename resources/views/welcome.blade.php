@@ -64,7 +64,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Selamat Datang</h1>
+        <h3>Welcome back</h3>
+        <h5>Login now to continue</h5>
         <img src="{{ asset('img/wa.png') }}" alt="Welcome Image">
         <form action="login.php" method="post">
             <div class="form-group">
