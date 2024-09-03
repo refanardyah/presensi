@@ -1,0 +1,10 @@
+html{
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.card-body{
+  width:5cm;
+  text-align: center;
+}
+h2{
+  margin-bottom:5px;
+}
